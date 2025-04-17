@@ -31,7 +31,7 @@ Hive Helsinki is:
 
 | Project | Description | Skills | Difficulty |
 |---------|-------------|--------|------------|
-| **[Libft](https://github.com/coding-schhol-projects/libft/)** | Recreation of standard C library functions | Makefile, Algorithms | ★★☆ |
+| **[Libft](https://github.com/coding-school-projects/libft)** | Recreation of standard C library functions | Makefile, Algorithms | ★★☆ |
 | **[ft_printf](ft_printf/)** | Custom printf implementation | Variadic functions | ★★☆ |
 | **[get_next_line](get_next_line/)** | Line-by-line file reader | File I/O, Buffering | ★★☆ |
 | **[Born2beroot](born2beroot/)** | Secure Linux VM setup | System Administration | ★★★ |

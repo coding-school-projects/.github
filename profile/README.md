@@ -33,45 +33,45 @@ Hive Helsinki is:
 ### 🔧 C Projects
 | Project | Description | Key Skills |
 |---------|-------------|------------|
-| **libft** | Recreation of standard C library functions | Makefile, Algorithms |
-| **get_next_line** | Function that reads a file line by line | File I/O, Buffering |
-| **ft_printf** | Custom implementation of printf function | Variadic functions |
+| **[libft](https://github.com/coding-school-projects/libft)** | Recreation of standard C library functions | Makefile, Algorithms |
+| **[get_next_line](https://github.com/coding-school-projects/get_next_line)** | Function that reads a file line by line | File I/O, Buffering |
+| **[ft_printf](https://github.com/coding-school-projects/ft_printf)** | Custom implementation of printf function | Variadic functions |
 
 ### 🖥️ Systems Programming
 | Project | Description | Key Features |
 |---------|-------------|--------------|
-| **Born2beroot** | Secure Linux VM setup | LVM, SSH, Sudo |
-| **minishell** | Bash-like shell implementation | <ul><li>Command parsing</li><li>Process execution</li><li>Redirections (`>`, `>>`, `<`, `<<`)</li><li>Pipes (`|`)</li><li>Signals (Ctrl-C/D)</li><li>Builtins (echo, cd, export)</li></ul> |
-| **Inception** | Multi-container Docker infrastructure | NGINX, WordPress, MariaDB |
+| **[Born2beroot](https://github.com/coding-school-projects/born2beRoot)** | Secure Linux VM setup | LVM, SSH, Sudo |
+| **[minishell](https://github.com/coding-school-projects/minishell)** | Bash-like shell implementation | <ul><li>Command parsing</li><li>Process execution</li><li>Redirections (`>`, `>>`, `<`, `<<`)</li><li>Pipes (`|`)</li><li>Signals (Ctrl-C/D)</li><li>Builtins (echo, cd, export)</li></ul> |
+| **[Inception](https://github.com/coding-school-projects/inception)** | Multi-container Docker infrastructure | NGINX, WordPress, MariaDB |
 
 ### 🧠 Algorithms
 | Project | Description | Key Concepts |
 |---------|-------------|--------------|
-| **push_swap** | Sorting algorithm using two stacks | Algorithm optimization |
-| **philosophers** | Dining philosophers solution | Multithreading |
+| **[push_swap](https://github.com/coding-school-projects/push_swap)** | Sorting algorithm using two stacks | Algorithm optimization |
+| **[philosophers](https://github.com/coding-school-projects/philosophers)** | Dining philosophers solution | Multithreading |
 
 ### 📡 Networking
 | Project | Description | Protocols |
 |---------|-------------|-----------|
-| **minitalk** | Client-server communication | UNIX signals |
-| **NetPractice** | Network configuration | TCP/IP |
-| **ft_irc** | IRC server | Internet Relay Chat |
+| **[minitalk](https://github.com/coding-school-projects/minitalk)** | Client-server communication | UNIX signals |
+| **[NetPractice](https://github.com/coding-school-projects/netpractice)** | Network configuration | TCP/IP |
+| **[ft_irc](https://github.com/coding-school-projects/ft_irc)** | IRC server | Internet Relay Chat |
 
 ### 🎨 Graphics
 | Project | Description | Framework |
 |---------|-------------|-----------|
-| **fract-ol** | Fractal generator | MiniLibX |
-| **cub3d** | Ray-casting 3D game | MiniLibX |
+| **[fract-ol](https://github.com/coding-school-projects/fract-ol)** | Fractal generator | MiniLibX |
+| **[cub3d](https://github.com/coding-school-projects/cub3d)** | Ray-casting 3D game | MiniLibX |
 
 ### 🖥️ C++ Modules
 | Modules | Key Topics |
 |---------|------------|
-| **CPP00-04** | OOP, Inheritance, Polymorphism |
-| **CPP05-09** | Templates, STL, Exceptions |
+| **[CPP00-04](https://github.com/coding-school-projects/cpp_modules)** | OOP, Inheritance, Polymorphism |
+| **[CPP05-09](https://github.com/coding-school-projects/cpp_modules)** | Templates, STL, Exceptions |
 
 ### 🌐 Web Development
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **ft_transcendence** | Full-stack web app | NestJS, React |
+| **[ft_transcendence](https://github.com/coding-school-projects/ft_transcendence)** | Full-stack web app | NestJS, React |
 
 ---

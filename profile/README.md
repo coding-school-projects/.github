@@ -85,7 +85,7 @@ git clone https://github.com/yourusername/coding-school-projects.git
 cd project-name
 make
 ./executable
-
+```
 
 
 

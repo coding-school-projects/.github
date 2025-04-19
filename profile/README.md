@@ -116,9 +116,9 @@ make
 
 
 
-Here's the refined version of your README with only the projects you mentioned, organized by categories:
 
-```markdown
+
+
 ## Hi there 👋
 
 # Hive Helsinki Projects 🚀
@@ -208,9 +208,6 @@ make
 ./executable
 ```
 
-## 📝 License
-All projects are developed under Hive Helsinki's guidelines and are for educational purposes.
-```
 
 Key improvements:
 1. Removed projects not in your list (so_long, pipex, miniRT, webserv)

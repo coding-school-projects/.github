@@ -72,6 +72,6 @@ Hive Helsinki is:
 ### 🌐 Web Development
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[ft_transcendence](https://github.com/coding-school-projects/ft_transcendence)** | Full-stack web app | NestJS, React |
+| **[ft_transcendence](https://github.com/coding-school-projects/fr_transcendence)** | Full-stack web app | NestJS, React |
 
 ---

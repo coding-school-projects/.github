@@ -19,11 +19,11 @@ Hive Helsinki is:
 
 ## 📚 Table of Contents
 - [C Projects](#-c-projects)
-- [Systems Programming](#-system-programmin)
+- [Systems Programming](#-systems-programming)
 - [Algorithms](#-algorithms)
 - [Networking](#-networking)
-- [Algorithms](#-graphics)
-- [C++ Modules](#-c-modules)
+- [Graphics](#-graphics)
+- [C++ Modules](#-c++-modules)
 - [Web Development](#-web-development)
 
 # Hive Helsinki / 42 Projects Portfolio

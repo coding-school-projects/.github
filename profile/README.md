@@ -32,21 +32,21 @@ Hive Helsinki is:
 | Project | Description | Skills | Difficulty |
 |---------|-------------|--------|------------|
 | **[Libft](https://github.com/coding-school-projects/libft)** | Recreation of standard C library functions | Makefile, Algorithms | ★★☆ |
-| **[ft_printf](ft_printf/)** | Custom printf implementation | Variadic functions | ★★☆ |
-| **[get_next_line](get_next_line/)** | Line-by-line file reader | File I/O, Buffering | ★★☆ |
-| **[Born2beroot](born2beroot/)** | Secure Linux VM setup | System Administration | ★★★ |
+| **[ft_printf](https://github.com/coding-school-projects/ft_printf/)** | Custom printf implementation | Variadic functions | ★★☆ |
+| **[get_next_line](https://github.com/coding-school-projects/get_next_line/)** | Line-by-line file reader | File I/O, Buffering | ★★☆ |
+| **[Born2beroot](https://github.com/coding-school-projects/born2beroot/)** | Secure Linux VM setup | System Administration | ★★★ |
 | **[so_long](so_long/)** | 2D game with MLX42 | Graphics, Game Logic | ★★★ |
 | **[pipex](pipex/)** | Unix pipe implementation | Process management | ★★★☆ |
-| **[push_swap](push_swap/)** | Stack sorting algorithms | Algorithm optimization | ★★★★ |
-| **[philosophers](philosophers/)** | Dining philosophers solution | Multithreading | ★★★★ |
-| **[minishell](minishell/)** | Custom shell implementation | Parsing, Process control | ★★★★☆ |
+| **[push_swap](https://github.com/coding-school-projects/push_swap/)** | Stack sorting algorithms | Algorithm optimization | ★★★★ |
+| **[philosophers](https://github.com/coding-school-projects/philosophers/)** | Dining philosophers solution | Multithreading | ★★★★ |
+| **[minishell](https://github.com/coding-school-projects/minishell/)** | Custom shell implementation | Parsing, Process control | ★★★★☆ |
 
 ## 🌐 Networking & System Admin
 
 | Project | Description | Technologies | Difficulty |
 |---------|-------------|--------------|------------|
-| **[NetPractice](netpractice/)** | Network configuration exercises | TCP/IP, Subnetting | ★★☆ |
-| **[Inception](inception/)** | Multi-service Docker infrastructure | Docker, NGINX, MariaDB | ★★★★ |
+| **[NetPractice](https://github.com/coding-school-projects/netpractice/)** | Network configuration exercises | TCP/IP, Subnetting | ★★☆ |
+| **[Inception](https://github.com/coding-school-projects/inception/)** | Multi-service Docker infrastructure | Docker, NGINX, MariaDB | ★★★★ |
 
 ## 🎮 Graphics & Game Dev
 

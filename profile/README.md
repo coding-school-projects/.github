@@ -88,5 +88,3 @@ C Language:         █████████▊ 95%
 Algorithms:         ████████▉ 88%
 C++:                ███████▌ 75%
 Web Development:    █████▊ 65%
-
----

@@ -78,6 +78,8 @@ Hive Helsinki is:
 |---------|-------------|-------|
 | **[ft_transcendence](https://github.com/coding-school-projects/fr_transcendence)** | Full-stack web app | NestJS, React |
 
+---
+
 ## 🛠️ Technical Skills Matrix
 
 ```text
